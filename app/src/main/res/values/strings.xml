@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IVRIT PRO</string>
+    <string name="academy_subtitle">Єврейський академічний курс івриту</string>
+    <string name="academy_motto_he">בְּהַצְלָחָה בַּלִּימּוּדִים</string>
+    <string name="academy_motto_uk">Успіхів у навчанні</string>
+    <string name="hero_hebrew_greeting">שָׁלוֹם</string>
+    <string name="hero_hebrew_invite">בּוֹאוּ לִלְמֹד עִבְרִית</string>
+    <string name="hero_uk_invite">Запрошуємо вивчати іврит</string>
+    <string name="hero_meta">15 уроків · з озвученням</string>
+    <string name="nav_course">Курс</string>
+    <string name="nav_dictionary">Словник</string>
+    <string name="section_theory">Теорія та граматика</string>
+    <string name="section_dialogues">Діалоги</string>
+    <string name="section_phrases">Фрази</string>
+    <string name="section_vocabulary">Словник</string>
+    <string name="section_quiz">Контрольний тест</string>
+    <string name="tab_all">Усе</string>
+    <string name="back_home">На головну</string>
+    <string name="next_lesson">Наступний урок</string>
+    <string name="prev_lesson">Попередній урок</string>
+    <string name="reset_quiz">Скинути тест</string>
+    <string name="listen_hebrew">Прослухати іврит</string>
+    <string name="search_dictionary_hint">Пошук слова українською, транскрипцією чи івритом…</string>
+    <string name="all_lessons_filter">Усі уроки</string>
+    <string name="tts_speed_title">Швидкість озвучення</string>
+    <string name="tts_unavailable_notice">Івритський голос TTS недоступний на цьому пристрої. Увімкніть іврит (he-IL) у налаштуваннях синтезу мовлення.</string>
+    <string name="empty_search_title">Нічого не знайдено</string>
+    <string name="empty_search_subtitle">Спробуйте інше слово або оберіть інший урок</string>
+</resources>

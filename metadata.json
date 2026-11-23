@@ -1,0 +1,6 @@
+{
+  "name": "IVRIT PRO",
+  "description": "Єврейський академічний курс івриту: 15 уроків з теорією, діалогами, словником, тестами та озвученням.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
